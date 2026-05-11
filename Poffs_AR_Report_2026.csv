@@ -1,108 +1,109 @@
-POFFS POWER SOLUTIONS - 2026 OPERATIONS REPORT
-Generated:,May 6 2026
+POFF'S POWER SOLUTIONS — 2026 OPERATIONS REPORT
+Generated:,May 12 2026
 Client ID:,1013
-Database:,nexgen_ftf_db
+Database:,commonNE
 ,,
 ,,
-=== AR AGING SUMMARY ===,,
+=== AR AGING SUMMARY (All-Time Unpaid) ===,,
 Aging Bucket,Order Count,Amount Due
-0-30 Days,1442,1154663
-31-60 Days,648,598545
-61-90 Days,493,514572
-90+ Days,527,651925
-TOTAL OUTSTANDING,3110,2919705
+0–30 Days,1,$6160
+31–60 Days,0,$0
+61–90 Days,0,$0
+90+ Days,42,$202868
+TOTAL OUTSTANDING,43,$209028
 ,,
 ,,
 === MONTHLY AR BREAKDOWN (2026) ===,,
 Month,Total Orders,Total Invoiced,Outstanding,Unpaid Orders
-January,1323,523201,523201,467
-February,1486,463402,463402,526
-March,1769,669143,669143,814
-April,1788,1053480,1054160,1372
-May (partial),383,230375,230375,352
-TOTAL,6749,2939601,2939601,3531
+January,90,20181,0,0
+February,62,85088,0,0
+March,123,85751,0,0
+April,425,444865,0,0
+May (partial),57,151930,6160,1
+TOTAL,757,787814,6160,1
 ,,
 ,,
 === WIP STATUS BREAKDOWN (2026) ===,,
 Status,Order Count,Total Value,Avg Value,Category
-Complete,3843,519315,135,Done
-Canceled,1578,1544446,979,Closed
-Quote,554,564635,1019,Pipeline
-On Hold,177,154525,873,Paused
-Delivered,117,12030,103,Done
-Checking,116,46695,403,Active
-Assigned,109,25905,238,Active
-Drafting Queue,99,22025,222,Active
-In-Field,56,27675,494,Active
-Drafting,51,7275,143,Active
-Pending,43,13050,303,Active
-Go Back,3,750,250,Active
+Delivered,386,490173,1270,Done
+Complete,253,0,0,Done
+Canceled,51,107733,2112,Closed
+Assigned,24,39956,1665,Active
+In-Field,13,18584,1430,Active
+Checking,12,13583,1132,Active
+Quote,5,107285,21457,Pipeline
+Under Review,5,6480,1296,Active
+Crew Completed,4,3576,894,Done
+Go Back,2,443,222,Active
 ,,
 ,,
 === EMPLOYEE INTERACTIONS (Trackflow 2026) ===,,,
 Employee,Total Interactions,Unique Orders
-Raul Resuera,58753,4266
-olegfp,40840,3061
-Sumit,36611,4609
-oleg,27554,3398
-Thomas_l,25461,1965
-Alije,12492,506
-DavidW,11755,1268
-Jon_w,6077,854
-glenn,5805,729
-RicardoT,5742,294
-Bob_office,5548,1167
-k_liabres,5443,1343
-Amann,5120,1285
-client,4957,4171
-mark,4905,1469
-Byron,4429,187
-mpagsolingan,4085,1594
-Tana_m,3923,1489
-smarana,3817,1853
-Raul,3703,196
+Colton_M,648,173
+Willy,460,165
+Ashton_I,309,114
+Anusha_D,246,39
+Matthew_H,83,56
+Chris_S,60,33
+TX_Shop,20,13
+Poffs_Power_Solutions,20,5
+Tech_Team,4,1
+Palmer_M,1,1
+prateek,1,1
 ,,
 ,,
-=== EMPLOYEE NOTES (2026) ===,,,
-Employee,Total Notes,Unique Orders
-Sumit,6553,2534
-Raul Resuera,5543,2156
-Thomas_l,4312,1566
-Tana_m,4289,2362
-mmendoza,2585,832
-Harish,2225,1943
-Alex_m,2214,1065
-k_liabres,1835,1487
-Haleyf,1716,1068
-Jon_w,936,641
-smarana,881,622
-Amann,742,542
-Miguel_m,663,474
-Bob_office,601,373
-Drew_b,551,156
-caitlyn,430,305
-glenn,400,351
+=== MONTHLY WORKFLOW ACTIVITY (Trackflow 2026) ===,,,
+Month,Field Actions,Account Actions,Emails,Total
+January,240,58,3,301
+February,289,19,18,326
+March,538,20,17,575
+April,531,40,9,582
+May (partial),59,9,0,68
+TOTAL,1657,146,47,1852
 ,,
 ,,
-=== OUTSTANDING AR DETAIL (Sample - Invoiced and Unpaid) ===,,,,
+=== OUTSTANDING AR DETAIL (Invoiced & Unpaid) ===,,,,
 Order #,Property Address,City,State,Invoice Date,Amount Due,Days Outstanding,Status,Aging Bucket
-1000231339,106 BALDWIN BLVD,GREENACRES,FL,2024-01-02,400,854,Canceled,90+ Days
-1000237049,8350 ARLINGTON EXPY,JACKSONVILLE,FL,2024-03-19,1600,777,Canceled,90+ Days
-1000240025,5060 TRADEWINDS DR,VERO BEACH,FL,2024-04-23,450,742,Canceled,90+ Days
-1000245941,1831 NW 40TH ST,OAKLAND PARK,FL,2024-07-08,600,666,Canceled,90+ Days
-1000263893,14685 40TH ST N,LOXAHATCHEE,FL,2025-04-30,2500,370,Canceled,90+ Days
-1000269743,806 FORESTDALE AVE,PANAMA CITY,FL,2025-08-12,1200,266,Canceled,90+ Days
-1000271180,217 SW AVENUE D,BELLE GLADE,FL,2025-09-08,750,239,Canceled,90+ Days
-1000272810,4808 N 32ND ST,TAMPA,FL,2025-10-08,400,209,Canceled,90+ Days
-1000275202,6602 ABDELLA LN,NORTH PORT,FL,2025-11-25,2800,161,Canceled,90+ Days
-1000275399,5910 SW 21ST AVENUE RD,OCALA,FL,2025-12-01,4000,155,Canceled,90+ Days
-1000276057,7556 GLENDEVON LN,DELRAY BEACH,FL,2025-12-14,575,142,Canceled,90+ Days
-1000276076,9009 CYPRESS DR S,FORT MYERS,FL,2025-12-14,500,142,Canceled,90+ Days
-1000276110,5501 AND 5509 BROADWAY,WEST PALM BEACH,FL,2025-12-15,2800,141,Canceled,90+ Days
-1000276111,5900 BROADWAY,WEST PALM BEACH,FL,2025-12-15,1800,141,Canceled,90+ Days
-1000276113,4407 COBIA DR,TAMPA,FL,2025-12-15,400,141,Canceled,90+ Days
-1000276137,SULLIVAN RD,DAVENPORT,FL,2025-12-15,2400,141,On Hold,90+ Days
-1000276216,55 5TH AVE,VERO BEACH,FL,2025-12-16,650,140,Canceled,90+ Days
-1000276248,7-9 MAGNOLIA AVE,YANKEETOWN,FL,2025-12-17,1350,139,Canceled,90+ Days
-1000276320,10221 HOLLAND RD,RIVERVIEW,FL,2025-12-18,400,138,Canceled,90+ Days
-1000276375,32 DOLPHIN DR,TREASURE ISLAND,FL,2025-12-21,875,135,Canceled,90+ Days
+1013-9670,Midland TX USA,Midland,TX,2026-05-06,6160,4,In-Field,0-30 Days
+1013-2931,El Reno OK USA,El Reno,OK,2022-11-21,24000,1266,Canceled,90+ Days
+1013-4434,13568 58th Street NW,Williston,ND,2023-03-09,100,1158,Complete,90+ Days
+1013-5170,North Dakota,—,ND,2023-06-21,1500,1054,Canceled,90+ Days
+1013-5171,North Dakota,—,ND,2023-06-21,1500,1054,Canceled,90+ Days
+1013-5172,North Dakota,—,ND,2023-06-21,1500,1054,Canceled,90+ Days
+1013-5284,5028 Bennett Industrial Dr,Williston,ND,2023-07-09,500,1036,Canceled,90+ Days
+1013-5319,Williston ND,Williston,ND,2023-07-09,500,1036,Canceled,90+ Days
+1013-4495,Mentone TX,Mentone,TX,2023-07-17,11060,1028,Canceled,90+ Days
+1013-4452,Mentone TX,Mentone,TX,2023-07-17,13889,1028,Canceled,90+ Days
+1013-5333,Midland TX,Midland,TX,2023-07-18,684,1027,Canceled,90+ Days
+1013-5570,Testaccio Rome Italy,Rome,Italy,2023-10-08,300,945,Canceled,90+ Days
+1013-5488,Voltagrid W County Rd 133,Midland,TX,2023-10-23,29415,930,Canceled,90+ Days
+1013-5100,Midland,Midland,TX,2023-10-29,3793,924,Canceled,90+ Days
+1013-5132,Midland,Midland,TX,2023-10-29,8747,924,Canceled,90+ Days
+1013-5188,Midland,Midland,TX,2023-10-29,3221,924,Canceled,90+ Days
+1013-5234,Midland,Midland,TX,2023-10-29,2321,924,Canceled,90+ Days
+1013-5231,Midland,Midland,TX,2023-10-29,2321,924,Canceled,90+ Days
+1013-5154,Midland,Midland,TX,2023-10-29,2320,924,Canceled,90+ Days
+1013-5187,Midland,Midland,TX,2023-10-29,2008,924,Canceled,90+ Days
+1013-5236,Midland,Midland,TX,2023-10-29,1964,924,Canceled,90+ Days
+1013-5162,Midland,Midland,TX,2023-10-29,1874,924,Canceled,90+ Days
+1013-5102,Midland,Midland,TX,2023-10-29,3838,924,Canceled,90+ Days
+1013-5238,Midland,Midland,TX,2023-10-29,1428,924,Canceled,90+ Days
+1013-5099,Midland,Midland,TX,2023-10-29,1428,924,Canceled,90+ Days
+1013-5233,Midland,Midland,TX,2023-10-29,982,924,Canceled,90+ Days
+1013-5232,Midland,Midland,TX,2023-10-29,893,924,Canceled,90+ Days
+1013-5230,Midland,Midland,TX,2023-10-29,893,924,Canceled,90+ Days
+1013-5130,Midland TX,Midland,TX,2023-10-29,848,924,Canceled,90+ Days
+1013-5036,5900 S County Rd 1235,Midland,TX,2023-10-29,759,924,Canceled,90+ Days
+1013-5364,Midland TX,Midland,TX,2023-10-29,718,924,Canceled,90+ Days
+1013-5237,Midland,Midland,TX,2023-10-29,714,924,Canceled,90+ Days
+1013-5207,Midland,Midland,TX,2023-10-29,714,924,Canceled,90+ Days
+1013-5239,Midland,Midland,TX,2023-10-29,536,924,Canceled,90+ Days
+1013-5160,Midland,Midland,TX,2023-10-29,268,924,Canceled,90+ Days
+1013-5153,Midland,Midland,TX,2023-10-29,89,924,Canceled,90+ Days
+1013-6325,Midland TX,Midland,TX,2024-03-20,30,781,Canceled,90+ Days
+1013-6763,Midland TX,Midland,TX,2024-07-04,4981,675,Canceled,90+ Days
+1013-6765,—,—,—,2024-10-06,1,581,Canceled,90+ Days
+1013-7405,—,—,—,2024-11-08,525,548,Canceled,90+ Days
+1013-7718,5088 4880 East,Vernal,UT,2025-01-31,61160,464,Canceled,90+ Days
+1013-8907,Williston ND,Williston,ND,2025-09-18,8400,234,Canceled,90+ Days
+1013-8914,Pratt KS,Pratt,KS,2025-09-19,149,233,Canceled,90+ Days
